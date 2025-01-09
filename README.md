@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVlanlsOTZxbHcyMHBraDQ2NWM1bmpjazY5dnZtejlnNDBwemE4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif" width="100"/>
-  
-  <hr />
+
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/kyle-peppersack/">
