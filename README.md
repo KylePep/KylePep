@@ -106,7 +106,7 @@ I am a Full Stack Developer with a special kind boundless tenacity that is fuele
 
 <div>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KylePep&theme=jolly&width=500" alt="GitHub Streak" width="500" height="168"/>
+    <img src="https://streak-stats.demolab.com/?user=KylePep)](https://git.io/streak-stats" alt="GitHub Streak" width="500" height="168"/>
   </a>
 </div>
 
