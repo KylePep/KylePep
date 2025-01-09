@@ -109,5 +109,5 @@ Ultimately, my goal is to be a reliable and versatile developer for myself, my t
 <div>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KylePep&theme=slateorange&mode=weekly" alt="GitHub Streak" /></a>
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=KylePep&theme=slateorange&mode=weekly)](https://git.io/streak-stats)
 ---
