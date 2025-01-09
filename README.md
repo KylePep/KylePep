@@ -27,14 +27,18 @@
 ---
 
 ### 🧑‍💻 About Me:
-I’m a Full Stack Developer who loves building engaging and interactive experiences. Whether it's crafting fun ways for users to interact with web applications or creating immersive games, I strive to push the boundaries of creativity and usability in everything I develop. I graduated from Boise CodeWorks in 2023, where I developed a solid foundation in web development. Since then, I've been coding nearly every day, continuing to hone my skills and taking on freelance projects to create impactful software solutions. My journey into development started with GameMaker in high school, and I’ve been a hobby game developer ever since. Most recently, I took 2nd place in the CodeWorks Summer 2024 Game Jam with my game, built using Phaser.js and Vue. My passion for coding is deeply rooted in solving problems, learning new tools, and making ideas come to life.
+I’m a Full Stack Developer who loves building engaging and interactive experiences. Whether it's crafting fun ways for users to interact with web applications or creating immersive games, I strive to push the boundaries of creativity and usability in everything I develop. <br> I graduated from Boise CodeWorks in 2023, where I developed a solid foundation in web development. Since then, I've been coding nearly every day, continuing to hone my skills and taking on freelance projects to create impactful software solutions. <br> My journey into development started with GameMaker in high school, and I’ve been a hobby game developer ever since. Most recently, I took 2nd place in the CodeWorks Summer 2024 Game Jam with my game, built using Phaser.js and Vue. My passion for coding is deeply rooted in solving problems, learning new tools, and making ideas come to life.
 
 <ul>
   <li>
     While I enjoy diving into new technologies and tools, what truly excites me about programming is its universal logic and problem-solving essence. Coding, at its core, transcends specific frameworks and languages, allowing me to focus on building a strong foundation of problem-solving skills. I find immense satisfaction in identifying and tackling classic challenges, refining my ability to apply solutions effectively, and deepening my expertise in tools I already use regularly.
+  </li>
 
+  <li>
 For me, technology is a means, not an end. Any framework or language can be learned with time, provided you understand its syntax, structure, and core functionality. That’s why I prioritize adaptability and code literacy—focusing on understanding the underlying principles rather than constantly chasing the latest trends. This approach ensures I’m well-equipped to contribute meaningfully to any project, picking up and applying the right tools as needed.
+  </li>
 
+  <li>
 Ultimately, my goal is to be a reliable and versatile developer for myself, my team, and my clients. By mastering timeless concepts and embracing lifelong learning, I aim to solve problems creatively, efficiently, and with a deeper sense of purpose. 
   </li>
 </ul>
