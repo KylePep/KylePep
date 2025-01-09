@@ -73,9 +73,9 @@ I am a Full Stack Developer with a special kind boundless tenacity that is fuele
       <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" title="ThreeJS" alt="ThreeJS" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="45" height="45"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="45" height="45"/>&nbsp;
     </div>
     <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="45" height="45"/>&nbsp;
       <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" title="ExpressJS" alt="ExpressJS" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="45" height="45"/>&nbsp;
@@ -95,11 +95,11 @@ I am a Full Stack Developer with a special kind boundless tenacity that is fuele
 
 ### :fire: My Stats :
 <div>
-  <a href="https://github.com/AJVancattenburch/github-readme-stats">
+  <a href="https://github.com/KylePep/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=AJVancattenburch&hide=issues,contribs&show=prs_merged,prs_merged_percentage_icons,include_all_commits=true&rank_icon=github&theme=jolly" height="160" width="500"/>
   </a>
   
-  <a href="https://github.com/AJVancattenburch/github-readme-stats">
+  <a href="https://github.com/KylePep/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJVancattenburch&layout=compact&theme=jolly" height="160" width="300"/>
   </a>
 </div>
