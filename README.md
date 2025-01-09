@@ -47,7 +47,7 @@ I am a Full Stack Developer with a special kind boundless tenacity that is fuele
         Contact me now!
       </h3>
       <img src="https://static.wixstatic.com/media/d7f1c6_a2a247ebff3749dfae4a6a2ec9f53f9b~mv2.gif" width="40"/>
-      <a href="https://www.linkedin.com/in/anthonyvancattenburch/">
+      <a href="https://www.linkedin.com/in/kyle-peppersack/">
         <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="Click me to be redirected to my LinkedIn Profile"/>
       </a>
       <img src="https://static.wixstatic.com/media/d7f1c6_a2a247ebff3749dfae4a6a2ec9f53f9b~mv2.gif" width="40"/>
