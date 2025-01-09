@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lydXpzczJkeGN4YzF4eHI0eGhrd3hwZXJ1cTk1ZWg0aGhtamNpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rnb5VoZiIyIM0/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVlanlsOTZxbHcyMHBraDQ2NWM1bmpjazY5dnZtejlnNDBwemE4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif" width="100"/>
   
   <hr />
   
@@ -18,10 +18,10 @@
 </div>
     
 <div align="center">
-  <img src="https://media1.giphy.com/media/mGPBHjsi5GcQfC8hLc/giphy.gif?cid=6c09b952yuyeu0xb89q12hyehh4o5p1hsf96q4mrect2agfg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN2bHFvZ215bDVoYzh4bzBob2g5Y2hzOTh3dnFudmdqcWxpOHJyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1RYpkuibOpVkTCKarx/giphy.gif" width="200"/>
 </div>
 <div align="center">
-  <img src="https://media3.giphy.com/media/B6ks3eTSxhk4EvABa6/giphy.gif?cid=6c09b952gk93ptwncg7837mq8oalwybzb7gmfmahiwmvhp8v&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="300" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lydXpzczJkeGN4YzF4eHI0eGhrd3hwZXJ1cTk1ZWg0aGhtamNpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rnb5VoZiIyIM0/giphy.gif" width="300" />
 </div>
 
 ---
@@ -42,7 +42,7 @@ For me, technology is a means, not an end. Any framework or language can be lear
 Ultimately, my goal is to be a reliable and versatile developer for myself, my team, and my clients. By mastering timeless concepts and embracing lifelong learning, I aim to solve problems creatively, efficiently, and with a deeper sense of purpose. 
   </li>
 </ul>
-<div align="left">
+<div align="center">
   <kbd>
     <div align="center">
       <h3>
@@ -61,7 +61,7 @@ Ultimately, my goal is to be a reliable and versatile developer for myself, my t
 ---
 
 <h3> :hammer_and_wrench: Languages and Tools : </h3>
-<div>
+<div align="center">
   <kbd>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
@@ -72,7 +72,7 @@ Ultimately, my goal is to be a reliable and versatile developer for myself, my t
       <img src="https://formatterkit.com/img/feature/scss.png"  title="SCSS" alt="SCSS" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="45" height="45"/>&nbsp;
-      <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" title="ThreeJS" alt="ThreeJS" width="45" height="45"/>&nbsp;
+      <img src="https://global.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" title="ThreeJS" alt="ThreeJS" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="45" height="45"/>&nbsp;
@@ -96,19 +96,19 @@ Ultimately, my goal is to be a reliable and versatile developer for myself, my t
 ---
 
 ### :fire: My Stats :
-<div>
+<div align="center">
   <a href="https://github.com/KylePep/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KylePep&layout=compact&theme=slateorange" height="200" width="500"/>
   </a>
 </div>
   
-<div>
+<div align="center">
   <a href="https://github.com/KylePep/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KylePep&hide=issues,contribs&show=prs_merged,prs_merged_percentage_icons,include_all_commits=true&rank_icon=github&theme=slateorange" height="200" width="500"/>
   </a>
 </div>
 
-<div>
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-gold.vercel.app?user=KylePep&theme=slateorange&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </div>
 ---
