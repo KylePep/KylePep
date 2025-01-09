@@ -27,17 +27,15 @@
 ---
 
 ### 🧑‍💻 About Me:
-I am a Full Stack Developer with a special kind boundless tenacity that is fueled by a love for programming, driven <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1lbmczMXRwdHY5cGNjZGV3OTJ3anJ6dXRjcGNrNHhuaXo4d2w5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ck5Ex8j9k0On1eLs1H/giphy.gif" width="30"/> by a unique personal journey, and guided by a deep sense of purpose as a developer. I am always excited to contribute with a dynamic and forward-thinking group. I bring perseverance, integrity, and a rapid learning ability to every project -- striving to create impactful software solutions that push boundaries and drive positive change. I currently reside in the beautiful Boise, Idaho and am an application building / outdoor enthusiast that thrives in settings that foster creativity and a thirst for exchanging knowledge through team support and collaboration.
+I’m a Full Stack Developer who loves building engaging and interactive experiences. Whether it's crafting fun ways for users to interact with web applications or creating immersive games, I strive to push the boundaries of creativity and usability in everything I develop. I graduated from Boise CodeWorks in 2023, where I developed a solid foundation in web development. Since then, I've been coding nearly every day, continuing to hone my skills and taking on freelance projects to create impactful software solutions. My journey into development started with GameMaker in high school, and I’ve been a hobby game developer ever since. Most recently, I took 2nd place in the CodeWorks Summer 2024 Game Jam with my game, built using Phaser.js and Vue. My passion for coding is deeply rooted in solving problems, learning new tools, and making ideas come to life.
 
 <ul>
   <li>
-    🚀 Although I love exploring and familiarizing myself with cool new technologies, that isn't what makes coding truly special to me. Being as actual programming is almost completely framework and code agnostic, I find the most gratification in adding tools to my toolkit that aide in my ability to recognize and categorize classic problems, employing solutions for those problems, and increasing my proficiency with frameworks and languages that I am already well-versed and proficient in. Most all frameworks and languages can be learned fairly quickly if you understand what to look for in syntax and core library functionality. I prioritize code literacy and cognizance over one hot new tech stack after the other because there will always be something new to learn. What is important to me is to be as useful as possible to myself and others so any technologies required on a project can be more naturally understood and applied. 
-  </li>
-  <li>
-    🎨 I also have significant experience in Adobe Photoshop (10 years), creative writing, and marketing for local events through Social Media. I have a particular knack for creating captivating User Experiences and design interfaces, creating both 2D and 3D animations, and have a extensive knowledge and creatively unique outlook in fundamentally important yet frequently overlooked skills such as color theory / psychology, optimal times of day to post on social media for maximum outreach, etc.
-  </li>
-  <li>
-    ☺ When I'm not analyzing code and building applications, you can find me playing video games, snowboarding, longboarding. camping / enjoying the outdoors, and spending time with my family.
+    While I enjoy diving into new technologies and tools, what truly excites me about programming is its universal logic and problem-solving essence. Coding, at its core, transcends specific frameworks and languages, allowing me to focus on building a strong foundation of problem-solving skills. I find immense satisfaction in identifying and tackling classic challenges, refining my ability to apply solutions effectively, and deepening my expertise in tools I already use regularly.
+
+For me, technology is a means, not an end. Any framework or language can be learned with time, provided you understand its syntax, structure, and core functionality. That’s why I prioritize adaptability and code literacy—focusing on understanding the underlying principles rather than constantly chasing the latest trends. This approach ensures I’m well-equipped to contribute meaningfully to any project, picking up and applying the right tools as needed.
+
+Ultimately, my goal is to be a reliable and versatile developer for myself, my team, and my clients. By mastering timeless concepts and embracing lifelong learning, I aim to solve problems creatively, efficiently, and with a deeper sense of purpose. 
   </li>
 </ul>
 <div align="left">
