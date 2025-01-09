@@ -98,16 +98,17 @@ Ultimately, my goal is to be a reliable and versatile developer for myself, my t
 ### :fire: My Stats :
 <div>
   <a href="https://github.com/KylePep/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KylePep&hide=issues,contribs&show=prs_merged,prs_merged_percentage_icons,include_all_commits=true&rank_icon=github&theme=slateorange" height="160" width="500"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KylePep&layout=compact&theme=slateorange" height="200" width="500"/>
   </a>
+</div>
   
+<div>
   <a href="https://github.com/KylePep/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KylePep&layout=compact&theme=slateorange" height="160" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KylePep&hide=issues,contribs&show=prs_merged,prs_merged_percentage_icons,include_all_commits=true&rank_icon=github&theme=slateorange" height="200" width="500"/>
   </a>
 </div>
 
 <div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KylePep&theme=slateorange&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-gold.vercel.app?user=KylePep&theme=slateorange&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=KylePep&theme=slateorange&mode=weekly)](https://git.io/streak-stats)
 ---
