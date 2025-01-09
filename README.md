@@ -52,12 +52,6 @@ I am a Full Stack Developer with a special kind boundless tenacity that is fuele
       </a>
       <img src="https://static.wixstatic.com/media/d7f1c6_a2a247ebff3749dfae4a6a2ec9f53f9b~mv2.gif" width="40"/>
         <h3> Let's make an impact together and connect!</h3>
-        <img 
-          src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"
-          width="300"
-          height="200"
-          alt="Waving Programmer gif"
-        />
     </div>
   </kbd>
 </div>
@@ -69,7 +63,6 @@ I am a Full Stack Developer with a special kind boundless tenacity that is fuele
   <kbd>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original-wordmark.svg" title="framer-motion" alt="framer-motion" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
@@ -77,11 +70,8 @@ I am a Full Stack Developer with a special kind boundless tenacity that is fuele
       <img src="https://formatterkit.com/img/feature/scss.png"  title="SCSS" alt="SCSS" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="45" height="45"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postcss/postcss-original.svg"  title="PostCSS" alt="PostCSS" width="45" height="45"/>&nbsp;
       <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" title="ThreeJS" alt="ThreeJS" width="45" height="45"/>&nbsp;
-      <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" title="GSAP" alt="GSAP" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45"/>&nbsp;
-      <img src="https://logowik.com/content/uploads/images/adobe-inc-a878.logowik.com.webp" title="Adobe" alt="Adobe" width="45" height="45"/>&nbsp;
     </div>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="45" height="45"/>&nbsp;
@@ -95,7 +85,6 @@ I am a Full Stack Developer with a special kind boundless tenacity that is fuele
       <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="45" height="45"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="45" height="45"/>
     </div>
