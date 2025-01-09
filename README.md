@@ -13,7 +13,7 @@
   </div>
 
   <h5>
-    <img src="https://komarev.com/ghpvc/?username=AJVancattenburch&style=flat-square&color=blue" alt="Profile View Counter" title="Profile view count as of May 18, 2024"/>
+    <img src="https://komarev.com/ghpvc/?username=KylePep&style=flat-square&color=blue" alt="Profile View Counter" title="Profile view count as of Jan 9, 2025"/>
   </h5>
 </div>
     
