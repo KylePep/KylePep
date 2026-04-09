@@ -24,22 +24,29 @@
 
 ---
 
-### 🧑‍💻 About Me:
-I’m a Full Stack Developer who loves building engaging and interactive experiences. Whether it's crafting fun ways for users to interact with web applications or creating immersive games, I strive to push the boundaries of creativity and usability in everything I develop. <br> I graduated from Boise CodeWorks in 2023, where I developed a solid foundation in web development. Since then, I've been coding nearly every day, continuing to hone my skills and taking on freelance projects to create impactful software solutions. <br> My journey into development started with GameMaker in high school, and I’ve been a hobby game developer ever since. Most recently, I took 2nd place in the CodeWorks Summer 2024 Game Jam with my game, built using Phaser.js and Vue. My passion for coding is deeply rooted in solving problems, learning new tools, and making ideas come to life.
+<h3>🧑‍💻 About Me</h3>
+
+<p>
+I’m a Full Stack Developer passionate about building engaging, interactive, and user-focused applications. I specialize in modern frontend frameworks like React and Vue, and backend technologies including .NET and Node.js. My work spans component-driven UIs, RESTful API integration, and accessible, maintainable code.
+</p>
+
+<p>
+I graduated from <strong>Boise CodeWorks</strong> in 2023 and have since honed my skills through freelance projects and professional experience. Highlights include:
+</p>
 
 <ul>
-  <li>
-    While I enjoy diving into new technologies and tools, what truly excites me about programming is its universal logic and problem-solving essence. Coding, at its core, transcends specific frameworks and languages, allowing me to focus on building a strong foundation of problem-solving skills. I find immense satisfaction in identifying and tackling classic challenges, refining my ability to apply solutions effectively, and deepening my expertise in tools I already use regularly.
-  </li>
-
-  <li>
-For me, technology is a means, not an end. Any framework or language can be learned with time, provided you understand its syntax, structure, and core functionality. That’s why I prioritize adaptability and code literacy—focusing on understanding the underlying principles rather than constantly chasing the latest trends. This approach ensures I’m well-equipped to contribute meaningfully to any project, picking up and applying the right tools as needed.
-  </li>
-
-  <li>
-Ultimately, my goal is to be a reliable and versatile developer for myself, my team, and my clients. By mastering timeless concepts and embracing lifelong learning, I aim to solve problems creatively, efficiently, and with a deeper sense of purpose. 
-  </li>
+  <li>Placing <strong>2nd in the CodeWorks Summer 2024 Game Jam</strong> with a Phaser.js + Vue game.</li>
+  <li>Leading accessibility and theme upgrades for the <strong>Idaho Tax Commission</strong>, fixing 500+ issues.</li>
+  <li>Refactoring complex plugins and applications into structured <strong>MVC architectures</strong> at the Division of Financial Management.</li>
 </ul>
+
+<p>
+I approach development with problem-solving at the core—prioritizing clean design, scalable architecture, and adaptability to new tools and frameworks. Whether designing full-stack features, integrating APIs, or building production-ready applications, I aim to create solutions that are reliable, efficient, and meaningful.
+</p>
+
+<p><strong>Interests:</strong> Historical European Martial Arts, fitness, Dragon Ball Z, game design</p>
+
+
 <div align="center">
   <kbd>
     <div align="center">
@@ -70,7 +77,7 @@ Ultimately, my goal is to be a reliable and versatile developer for myself, my t
       <img src="https://formatterkit.com/img/feature/scss.png"  title="SCSS" alt="SCSS" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="45" height="45"/>&nbsp;
-      <img src="https://global.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" title="ThreeJS" alt="ThreeJS" width="45" height="45"/>&nbsp;
+      <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" title="ThreeJS" alt="ThreeJS" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="45" height="45"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="45" height="45"/>&nbsp;
