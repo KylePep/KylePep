@@ -94,7 +94,7 @@ Ultimately, my goal is to be a reliable and versatile developer for myself, my t
 ---
 
 ### :fire: My Stats :
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/KylePep/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KylePep&layout=compact&theme=slateorange" height="200" width="500"/>
   </a>
@@ -104,7 +104,7 @@ Ultimately, my goal is to be a reliable and versatile developer for myself, my t
   <a href="https://github.com/KylePep/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KylePep&hide=issues,contribs&show=prs_merged,prs_merged_percentage_icons,include_all_commits=true&rank_icon=github&theme=slateorange" height="200" width="500"/>
   </a>
-</div>
+</div> -->
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-gold.vercel.app?user=KylePep&theme=slateorange&card_width=500&card_height=200" alt="GitHub Streak" /></a>
