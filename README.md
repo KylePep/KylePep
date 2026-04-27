@@ -24,7 +24,7 @@
 
 ---
 
-<h3>🧑‍💻 About Me</h3>
+<h3>🟠 About Me</h3>
 
 <p>
 I’m a Full Stack Developer passionate about building engaging, interactive, and user-focused applications. I specialize in modern frontend frameworks like React and Vue, and backend technologies including .NET and Node.js. My work spans component-driven UIs, RESTful API integration, and accessible, maintainable code.
@@ -65,7 +65,7 @@ I approach development with problem-solving at the core—prioritizing clean des
 
 ---
 
-<h3> :hammer_and_wrench: Languages and Tools : </h3>
+<h3> 🟠 Languages and Tools : </h3>
 <div align="center">
   <kbd>
     <div>
@@ -100,7 +100,7 @@ I approach development with problem-solving at the core—prioritizing clean des
 
 ---
 
-### :fire: My Stats :
+### 🟠 My Stats :
 <!-- <div align="center">
   <a href="https://github.com/KylePep/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KylePep&layout=compact&theme=slateorange" height="200" width="500"/>
